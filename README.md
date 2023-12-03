@@ -1,4 +1,4 @@
-👋 Hi, I’m @Srisowmiya55.
+👋 Hi, I’m @Srisowmiya.
 
 👀 I’m interested in data analytics, where I can leverage my skills in Python, SQL, and Power BI to derive insights from data.
 
